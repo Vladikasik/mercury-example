@@ -1,0 +1,8 @@
+base_url + widget_id + parameters
+https://exchange.mercuryo.io/? + widget_id=abc + &amount=100&currency=USDT&network=SOLANA
+
+base_url + widget_id + parameters + address + signature
+https://exchange.mercuryo.io/? + widget_id=abc + 
+&amount=100&currency=USDT&network=SOLANA + 
+&address=0x1234567890 + &signature=0x1234567890
+
